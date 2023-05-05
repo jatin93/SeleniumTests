@@ -1,0 +1,15 @@
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/bin/Debug/net7.0/selenium-manager/linux/selenium-manager
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/bin/Debug/net7.0/selenium-manager/macos/selenium-manager
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/bin/Debug/net7.0/selenium-manager/windows/selenium-manager.exe
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/bin/Debug/net7.0/PageObjects.deps.json
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/bin/Debug/net7.0/PageObjects.dll
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/bin/Debug/net7.0/PageObjects.pdb
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/PageObjects.csproj.AssemblyReference.cache
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/PageObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/PageObjects.AssemblyInfoInputs.cache
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/PageObjects.AssemblyInfo.cs
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/PageObjects.csproj.CoreCompileInputs.cache
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/PageObjects.dll
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/refint/PageObjects.dll
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/PageObjects.pdb
+/Users/jateensharma/Documents/SeleniumTests/PageObjects/obj/Debug/net7.0/ref/PageObjects.dll

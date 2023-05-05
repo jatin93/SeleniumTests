@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIAutomationTest", "UIAutomationTest\UIAutomationTest.csproj", "{67B3DFC7-5229-4508-8832-7F524BA01A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjects", "PageObjects\PageObjects.csproj", "{BD054700-6A45-4743-A2F8-514EDBD48305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B3DFC7-5229-4508-8832-7F524BA01A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B3DFC7-5229-4508-8832-7F524BA01A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B3DFC7-5229-4508-8832-7F524BA01A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B3DFC7-5229-4508-8832-7F524BA01A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD054700-6A45-4743-A2F8-514EDBD48305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD054700-6A45-4743-A2F8-514EDBD48305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD054700-6A45-4743-A2F8-514EDBD48305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD054700-6A45-4743-A2F8-514EDBD48305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
